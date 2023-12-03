@@ -1,0 +1,20 @@
+body {
+    background-image: url(../image/landing-page_blog_93303113643.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    background-attachment: cover;
+    text-align: center;
+}
+.test {
+    margin: 200px auto;
+    width: 400px;
+    height: 100px;
+    border: none;
+    padding: auto;
+    background-clip: padding-box;
+    backdrop-filter: 3px;
+    color: yellow;
+    border-radius: 50px;
+
+}
